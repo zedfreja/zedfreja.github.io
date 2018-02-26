@@ -1,0 +1,26 @@
+	   body{
+            background-color:#F6F6F6;
+            margin-left:20%;
+            margin-right:20%;
+            padding:10px 10px 10px 10px;
+            font-family:sans-serif;
+           }
+	   .description {
+	    border-color:#827DED;
+	    background-color:#000000;
+	    border-width:1px;
+	    border-style:solid;
+ 	    padding:10px;
+	    color:#FFFFFF;
+	   }
+	   .total-description {
+	    background-color:#000000;
+ 	    padding:10px;
+	    margin:20px;
+	    color:#FFFFFF;
+	   }
+	   .pic {
+	    margin:5px;
+	   }
+
+	  
