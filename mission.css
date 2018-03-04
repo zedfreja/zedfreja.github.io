@@ -1,0 +1,22 @@
+body {
+    background-color:#F6F6F6;
+    margin-left:20%;
+    margin-right:20%;
+    padding:10px 10px 10px 10px;
+    font-family:sans-serif;
+}
+#date {
+    font-style:italic;
+}
+a:link {
+    color:black;
+}
+a:hover {
+    color:darkred;
+}
+a:visited {
+    color: gray;
+}
+a:active {
+    color:darkred;
+}
