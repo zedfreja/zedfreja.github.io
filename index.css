@@ -8,5 +8,16 @@
 	  h3 {
 	      color:rgb(255,255,255);
 	  }
-
+	  a:link {
+		  color:black;
+	  }
+	  a:hover {
+		  color:darkred;
+	  }
+	  a:visited {
+		  color: gray;
+	  }
+	  a:active {
+		  color:darkred;
+	  }
 	  
