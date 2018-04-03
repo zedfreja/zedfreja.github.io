@@ -1,21 +1,42 @@
-	  body  {
-	      font-family:Verdana,Geneva,Arial,sans-serif; 
-	      background-color:#F6F6F6;
-	      margin-left:5%;
-	      margin-right:5%;
-	      padding:10px 10px 10px 10px;
-	  }
+body  {
+	font-family:copperplate,Serif;
+}
+#backgro {
+	margin:0px auto;
+}
+.header {
+	padding:0px 51px 0px 51px;
+	text-decoration:none;
+}
+#header {
+	text-align:center;
+	background-color:white;
+}
+#email,#descrip {
+	font-family:Copperplate,Serif;
+	color:#494848;
+}
+#email {
+	font-size: 16px;
+}
+#descrip{
+	font-size: 12px;
+}
+#middle {
+	text-align:center;
+}
+#footer{
+	text-align:center;
+}
+a:link {
+	color:#494848;
+}
+a:hover {
+	color:white;
+}
+a:visited {
+	color: darkred;
+}
 
-	  a:link {
-		  color:black;
-	  }
-	  a:hover {
-		  color:darkred;
-	  }
-	  a:visited {
-		  color: gray;
-	  }
-	  a:active {
-		  color:darkred;
-	  }
-	  
+
+
