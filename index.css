@@ -28,11 +28,18 @@ body  {
 footer {
 	text-align:center;
 }
+div#header > a {
+	transition: font-size 1s;
+	-moz-transition: font-size 1s;	/* Firefox 4 */
+	-webkit-transition: font-size 1s;	/* Safari 和 Chrome */
+	-o-transition: font-size 1s;	/* Opera */
+}
 a:link {
 	color:#494848;
 }
 a:hover {
 	color:#fcddd7;
+	font-size:20px;
 }
 a:visited {
 	color: darkred;
